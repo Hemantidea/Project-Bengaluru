@@ -1,0 +1,14 @@
+# Python environment & cache files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Large datasets & raw files (Your traffic data)
+*.csv
+*.json
+
+# Machine learning model outputs
+*.pkl
+*.h5
+*.pt

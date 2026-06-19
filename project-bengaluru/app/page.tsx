@@ -3,7 +3,7 @@
 import { useState, useEffect, useRef } from 'react';
 import 'leaflet/dist/leaflet.css';
 
-export default function Dashboard() {
+export default function Page() {
   const [latitude, setLatitude] = useState(12.9716); 
   const [longitude, setLongitude] = useState(77.5946); 
   const [cause, setCause] = useState('vehicle_breakdown');

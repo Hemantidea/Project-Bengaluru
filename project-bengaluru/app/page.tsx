@@ -445,7 +445,7 @@ export default function Page() {
           <div className="absolute inset-0 bg-gradient-to-b from-white/25 via-white/5 to-transparent h-1/2 pointer-events-none" />
           <div className="flex items-center gap-1.5 z-10">
             <span className="text-sm">🛡️</span>
-            <span className="text-xs font-bold tracking-wide drop-shadow-[0_1px_2px_rgba(0,0,0,0.8)]">GRID-Lock Control Center</span>
+            <span className="text-xs font-bold tracking-wide drop-shadow-[0_1px_2px_rgba(0,0,0,0.8)]">GRID-Lock Traffic Control Center</span>
           </div>
           {/* Mobile Close Button */}
           <button

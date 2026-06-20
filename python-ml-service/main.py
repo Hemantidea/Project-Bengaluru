@@ -18,7 +18,11 @@ app.add_middleware(
 )
 
 # Load the trained XGBoost pipeline
-model = joblib.load('traffic_model.pkl')
+import os
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+model_path = os.path.join(BASE_DIR, 'traffic_model.pkl')
+
+model = joblib.load(model_path)
 
 # Define request schema matching Minute Zero properties
 class TrafficPredictionRequest(BaseModel):

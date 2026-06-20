@@ -11,7 +11,7 @@ const adapter = new PrismaPg({
 const prisma = new PrismaClient({ adapter });
 
 async function main() {
-  const seedPath = path.join(process.cwd(), '../../python-ml-service/junction_seed.json');
+  const seedPath = path.join(process.cwd(), '../python-ml-service/junction_seed.json');
   const rawData = fs.readFileSync(seedPath, 'utf-8');
   const junctions = JSON.parse(rawData);
 

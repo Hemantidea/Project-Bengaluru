@@ -24,3 +24,39 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.absolute::-webkit-scrollbar {
+  width: 10px;
+}
+
+.absolute::-webkit-scrollbar-track {
+  background: #f0f4f9; 
+  border-left: 1px solid #c8d1db;
+}
+
+.absolute::-webkit-scrollbar-thumb {
+  background: linear-gradient(to right, #cfdbeb, #a2bcdc);
+  border: 1px solid #7a96b4;
+  border-radius: 4px;
+}
+
+.absolute::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(to right, #e2ecf7, #b8d2f0);
+  border-color: #6082a5;
+}
+
+.leaflet-popup-content-wrapper {
+  background: #ffffe1 !important;
+  border: 1px solid #767676 !important;
+  border-radius: 0px !important;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2) !important;
+  color: #000000 !important;
+  font-family: "Segoe UI", Tahoma, sans-serif !important;
+}
+
+.leaflet-popup-tip {
+  background: #ffffe1 !important;
+  border-left: 1px solid #767676 !important;
+  border-bottom: 1px solid #767676 !important;
+  box-shadow: none !important;
+}

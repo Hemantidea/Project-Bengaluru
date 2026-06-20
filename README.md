@@ -1,5 +1,6 @@
 # <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=2000&pause=500&color=00E7FF&center=true&vCenter=true&width=1400&height=80&lines=PROJECT+BENGALURU;PREDICT+%E2%80%A2+DISPATCH+%E2%80%A2+CLEAR;AI+FOR+URBAN+MOBILITY;GRIDLOCK+HACKATHON+2.0" />
-<img width="1672" height="941" alt="ChatGPT Image Jun 20, 2026, 11_45_22 AM" src="https://github.com/user-attachments/assets/40f6f571-53bd-41d8-9726-eee753db99da" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/f98be318-ba0f-4684-8f1e-baa6a4c2c55d" />
+
 
 
 

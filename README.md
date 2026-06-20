@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=1100&lines=🚔+Project+Bengaluru+%7C+Built+for+Gridlock+Hackathon+2.0+%7C+Predict.+Dispatch.+Clear." />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Orbitron&size=30&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=1100&lines=Project+Bengaluru+%7C+Built+for+Gridlock+Hackathon+2.0+%7C+Predict.+Dispatch.+Clear.)
